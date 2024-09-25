@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">StudyBuddy</string>
+    <string name="username">Enter Username</string>
+    <string name="pwd">Enter Password</string>
+    <string name="re_pwd">Re-Enter Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="task_name">Enter Task Name</string>
+    <string name="task_description">Enter Task Description</string>
+    <string name="deadline">Enter DeadLine</string>
+    <string name="priority">Enter Priority</string>
+    <string name="task_category">Enter Task Category</string>
+    <string name="remainder_toggle">Remainder Toggle</string>
+    <string-array name="priority_array">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
 </resources>
