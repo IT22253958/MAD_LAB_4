@@ -16,4 +16,13 @@
         <item>Medium</item>
         <item>High</item>
     </string-array>
+
+    <string-array name="task_category">
+        <item>Homework</item>
+        <item>Study Session</item>
+        <item>Exam Prep</item>
+    </string-array>
+    <string name="save_task">Save Task</string>
+    <string name="cancel_task">Cancel Task</string>">
+    <string name="reminder_switch">Set Reminder</string>
 </resources>
